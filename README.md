@@ -15,4 +15,4 @@ The installer is a standard NSIS setup for Windows 10/11 (x64). Installed copies
 
 ## Feedback
 
-Use **Help → Send feedback** inside Lyr.
+Use **Report a problem** in Lyr's Settings.
